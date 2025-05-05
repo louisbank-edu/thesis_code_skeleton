@@ -1,0 +1,2 @@
+Die Daten können leider nicht hochgeladen werden, weil sie kritische Unternehmensdaten enthalten.
+Dieses Repository ist als Beispiel/Skeleton gedacht, um die Skripte, die zur Modellierung verwendet wurden, zu zeigen.
